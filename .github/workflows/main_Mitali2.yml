@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'Mitali2'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_663682dde7444d02a0463fe976930492 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_166d9298c5ba43e4a599367fc3c10607 }}
         package: .
